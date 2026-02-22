@@ -1,6 +1,6 @@
 {
   "version": "20.14.43 (patches 5.50.2.rvp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/unilimitx/builder/releases/download/2/youtube-revanced-magisk-v20.14.43-all.zip",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/unilimitx/builder/releases/download/3/youtube-revanced-module-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/unilimitx/builder/update/build.md"
 }
