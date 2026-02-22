@@ -1,8 +1,6 @@
-YT-Music: 8.10.52  
 YT-Music-Morphe: 8.40.54  
-YT-Music-anddea: 8.30.54  
-YouTube: 20.14.43  
 YouTube-Morphe: 20.40.45  
+YouTube: 20.14.43  
 YouTube-anddea: 20.05.46  
 
 Install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) or [Morphe MicroG-RE](https://github.com/MorpheApp/MicroG-RE) for non-root YouTube and YouTube Music APKs  
