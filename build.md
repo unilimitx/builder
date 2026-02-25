@@ -1,7 +1,7 @@
+YouTube: 20.14.43  
 YT-Music: 8.10.52  
 YT-Music-Morphe: 8.40.54  
 YT-Music-anddea: 8.30.54  
-YouTube: 20.14.43  
 YouTube-Morphe: 20.40.45  
 YouTube-anddea: 20.05.46  
 
@@ -13,8 +13,8 @@ Patches: anddea/patches-3.16.0.rvp
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.16.0)
 
 CLI: MorpheApp/morphe-cli-1.4.0-all.jar  
-Patches: MorpheApp/patches-1.14.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.14.0)
+Patches: MorpheApp/patches-1.15.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.15.0)
 
 CLI: ReVanced/revanced-cli-5.0.1-all.jar  
 Patches: ReVanced/patches-5.50.2.rvp  
